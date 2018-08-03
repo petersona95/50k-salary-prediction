@@ -9,5 +9,6 @@ FILE LIST:
 
   adult.test - test set provided 
 
+  census_prediction - output of code showing 80% accuracy
 
 Link to dataset - https://archive.ics.uci.edu/ml/datasets/Adult
